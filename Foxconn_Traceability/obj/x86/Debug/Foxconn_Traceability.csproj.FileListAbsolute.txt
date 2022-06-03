@@ -1,0 +1,63 @@
+c:\users\diegooliveira\documents\visual studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.csprojResolveAssemblyReference.cache
+c:\users\diegooliveira\documents\visual studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Form1.resources
+c:\users\diegooliveira\documents\visual studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Properties.Resources.resources
+c:\users\diegooliveira\documents\visual studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.csproj.GenerateResource.Cache
+c:\users\diegooliveira\documents\visual studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.exe
+c:\users\diegooliveira\documents\visual studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.pdb
+c:\users\diegooliveira\documents\visual studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\zxing.dll
+c:\users\diegooliveira\documents\visual studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\zxing.pdb
+c:\users\diegooliveira\documents\visual studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\zxing.xml
+c:\users\diegooliveira\documents\visual studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.exe
+c:\users\diegooliveira\documents\visual studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.pdb
+C:\Users\diegooliveira\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Principal.resources
+C:\Users\diegooliveira\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Reprint.resources
+Z:\CNSBG\ITS\Privado\Source Code\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.exe
+Z:\CNSBG\ITS\Privado\Source Code\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.pdb
+C:\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.exe.config
+C:\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.exe
+C:\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.pdb
+C:\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.exe
+C:\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.pdb
+C:\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Form1.resources
+C:\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Properties.Resources.resources
+C:\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Reprint.resources
+C:\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.csproj.GenerateResource.Cache
+C:\Dados\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.exe.config
+C:\Dados\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.exe
+C:\Dados\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.pdb
+C:\Dados\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.exe
+C:\Dados\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.pdb
+C:\Dados\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.csprojResolveAssemblyReference.cache
+C:\Dados\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Form1.resources
+C:\Dados\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Properties.Resources.resources
+C:\Dados\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Reprint.resources
+C:\Dados\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.csproj.GenerateResource.Cache
+C:\app\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.exe.config
+C:\app\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.exe
+C:\app\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.pdb
+C:\app\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.exe
+C:\app\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.pdb
+C:\app\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.csprojResolveAssemblyReference.cache
+C:\app\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Form1.resources
+C:\app\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Properties.Resources.resources
+C:\app\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Reprint.resources
+C:\app\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.csproj.GenerateResource.Cache
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.exe.config
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.exe
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Form1.resources
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Properties.Resources.resources
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Reprint.resources
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.csproj.GenerateResource.Cache
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.exe
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.csprojResolveAssemblyReference.cache
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.exe.config
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.exe
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\bin\Debug\Foxconn_Traceability.pdb
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Form1.resources
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Properties.Resources.resources
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.Reprint.resources
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.csproj.GenerateResource.Cache
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.exe
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\Foxconn_Traceability\Foxconn_Traceability\obj\x86\Debug\Foxconn_Traceability.pdb
